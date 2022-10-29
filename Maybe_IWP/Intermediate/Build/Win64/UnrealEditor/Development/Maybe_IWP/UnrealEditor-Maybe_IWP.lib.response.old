@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Maybe_IWP.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Intermediate\Build\Win64\Maybe_IWPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\hehexd.cpp.obj"
+"D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\Maybe_IWP.cpp.obj"
+"D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\MyClass.cpp.obj"
+"D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\Default.rc2.res"
+/OUT:"D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\UnrealEditor-Maybe_IWP.lib"

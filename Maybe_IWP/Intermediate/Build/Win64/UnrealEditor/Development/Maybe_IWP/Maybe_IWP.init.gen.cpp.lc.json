@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\opticalluck\\downloads\\github\\maybe iwp\\maybe_iwp\\intermediate\\build\\win64\\unrealeditor\\inc\\maybe_iwp\\maybe_iwp.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\opticalluck\\downloads\\github\\maybe iwp\\maybe_iwp\\intermediate\\build\\win64\\maybe_iwpeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\opticalluck\\downloads\\github\\maybe iwp\\maybe_iwp\\intermediate\\build\\win64\\unrealeditor\\development\\maybe_iwp\\definitions.maybe_iwp.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

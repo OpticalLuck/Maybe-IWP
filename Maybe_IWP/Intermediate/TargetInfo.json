@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Maybe_IWP",
+			"Path": "D:\\OpticalLuck\\Downloads\\GitHub\\Maybe IWP\\Maybe_IWP\\Source\\Maybe_IWP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Maybe_IWPEditor",
+			"Path": "D:\\OpticalLuck\\Downloads\\GitHub\\Maybe IWP\\Maybe_IWP\\Source\\Maybe_IWPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
