@@ -1,4 +1,4 @@
-"D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Source\Maybe_IWP\Maybe_IWP.cpp"
+D:\GitHub\Maybe-IWP\Maybe_IWP\Source\Maybe_IWP\Maybe_IWP.cpp
 /I .
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\UMG
 /I Runtime
@@ -251,8 +251,8 @@
 /I Runtime\MovieSceneTracks\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\PropertyPath
 /I Runtime\PropertyPath\Public
-/I "D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Inc\Maybe_IWP"
-/I "D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Source"
+/I D:\GitHub\Maybe-IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Inc\Maybe_IWP
+/I D:\GitHub\Maybe-IWP\Maybe_IWP\Source
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source
@@ -273,12 +273,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Intermediate\Build\Win64\Maybe_IWPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\Definitions.Maybe_IWP.h"
-/Yu"D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Intermediate\Build\Win64\Maybe_IWPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Intermediate\Build\Win64\Maybe_IWPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\Maybe_IWP.cpp.obj"
-/sourceDependencies "D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\Maybe_IWP.cpp.json"
+/FI"D:\GitHub\Maybe-IWP\Maybe_IWP\Intermediate\Build\Win64\Maybe_IWPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"D:\GitHub\Maybe-IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\Definitions.Maybe_IWP.h"
+/Yu"D:\GitHub\Maybe-IWP\Maybe_IWP\Intermediate\Build\Win64\Maybe_IWPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\GitHub\Maybe-IWP\Maybe_IWP\Intermediate\Build\Win64\Maybe_IWPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"D:\GitHub\Maybe-IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\Maybe_IWP.cpp.obj"
+/sourceDependencies D:\GitHub\Maybe-IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\Maybe_IWP.cpp.json
 /Zc:inline
 /nologo
 /Oi

@@ -6,10 +6,10 @@
 /NAME:"UnrealEditor-Maybe_IWP.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Intermediate\Build\Win64\Maybe_IWPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\DesignableUserWidget.cpp.obj"
-"D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\Maybe_IWP.cpp.obj"
-"D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\DesignableUserWidget.gen.cpp.obj"
-"D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\Maybe_IWP.init.gen.cpp.obj"
-"D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\Default.rc2.res"
-/OUT:"D:\OpticalLuck\Downloads\GitHub\Maybe IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\UnrealEditor-Maybe_IWP.lib"
+"D:\GitHub\Maybe-IWP\Maybe_IWP\Intermediate\Build\Win64\Maybe_IWPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\GitHub\Maybe-IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\DesignableUserWidget.cpp.obj"
+"D:\GitHub\Maybe-IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\Maybe_IWP.cpp.obj"
+"D:\GitHub\Maybe-IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\DesignableUserWidget.gen.cpp.obj"
+"D:\GitHub\Maybe-IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\Maybe_IWP.init.gen.cpp.obj"
+"D:\GitHub\Maybe-IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\Default.rc2.res"
+/OUT:"D:\GitHub\Maybe-IWP\Maybe_IWP\Intermediate\Build\Win64\UnrealEditor\Development\Maybe_IWP\UnrealEditor-Maybe_IWP.lib"
